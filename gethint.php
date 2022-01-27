@@ -27,4 +27,5 @@ if ($q !== "") {
     }
 }
 echo $hint === "" ? "Sem sugestão" :$hint;
+
 ?>
